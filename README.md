@@ -1,0 +1,1 @@
+The something machine takes a name and age and then says hello to you.
